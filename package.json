@@ -15,6 +15,7 @@
     "bs-platform": "^9.0.1"
   },
   "dependencies": {
+    "@rescript/react": "^0.10.1",
     "esm": "^3.2.25"
   }
 }

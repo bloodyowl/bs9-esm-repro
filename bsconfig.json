@@ -1,12 +1,14 @@
 {
   "name": "bs9-esm-repro",
+  "reason": { "react-jsx": 3 },
   "version": "0.1.0",
   "sources": {
     "dir": "src",
     "subdirs": true
   },
+  "bs-dependencies": ["@rescript/react"],
   "package-specs": {
-    "suffix": ".bs.js",
+    "suffix": ".mjs",
     "module": "es6",
     "in-source": true
   }
